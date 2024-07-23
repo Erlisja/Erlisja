@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Erlisja
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Android Development
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I do not have a fun fact :/
+- 💻 I am a passionate Software Engineer
+- 👩🏻‍🎓 I’m currently a graduate student @ Temple University 📚
+- 🔭 I'm happiest when I'm creating, learning, exploring, and thinking about how to make things better.
 
 <!---
 Erlisja/Erlisja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
